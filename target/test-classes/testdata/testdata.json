@@ -1,0 +1,12 @@
+{
+  "validUser": {
+    "username": "akhil@gmail.com",
+    "password": "889702",
+    "dob": "1998-06-01"
+  },
+  "invalidUser": {
+    "username": "invalid@gmail.com",
+    "password": "wrong",
+    "dob": "1990-01-01"
+  }
+}
